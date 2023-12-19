@@ -251,3 +251,5 @@ D:\Gabriel\Projects\MVC\SalesWebMVC\SalesWebMVC\bin\Debug\net7.0\runtimes\win\li
 D:\Gabriel\Projects\MVC\SalesWebMVC\SalesWebMVC\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 D:\Gabriel\Projects\MVC\SalesWebMVC\SalesWebMVC\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 D:\Gabriel\Projects\MVC\SalesWebMVC\SalesWebMVC\obj\Debug\net7.0\SalesWebMVC.csproj.CopyComplete
+D:\Gabriel\Projects\MVC\SalesWebMVC\SalesWebMVC\bin\Debug\net7.0\MySqlConnector.dll
+D:\Gabriel\Projects\MVC\SalesWebMVC\SalesWebMVC\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
