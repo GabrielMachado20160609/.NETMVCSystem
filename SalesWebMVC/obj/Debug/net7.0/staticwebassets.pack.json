@@ -21,6 +21,10 @@
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
+      "Id": "D:\\Gabriel\\Projects\\MVC\\SalesWebMVC\\SalesWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-gray.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-gray.css"
+    },
+    {
       "Id": "D:\\Gabriel\\Projects\\MVC\\SalesWebMVC\\SalesWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
@@ -119,6 +123,10 @@
     {
       "Id": "D:\\Gabriel\\Projects\\MVC\\SalesWebMVC\\SalesWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Gabriel\\Projects\\MVC\\SalesWebMVC\\SalesWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-vapor.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-vapor.css"
     },
     {
       "Id": "D:\\Gabriel\\Projects\\MVC\\SalesWebMVC\\SalesWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
